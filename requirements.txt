@@ -6,3 +6,4 @@ typing_extensions==4.10.0
 validators==0.23.2
 pytest>=7.0
 pytest-cov>=4.0
+pillow>=10.3.0
